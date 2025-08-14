@@ -1,0 +1,6 @@
+2025-08-14 21:38:29,960 - Numbers: [3, 4, 5], Result: True
+2025-08-14 21:38:29,961 - Numbers: [5, 12, 13], Result: True
+2025-08-14 21:38:29,961 - Numbers: [1, 2, 3], Result: False
+2025-08-14 21:38:29,961 - Error: You must enter exactly 3 numbers!, Entered data: '3 4'
+2025-08-14 21:38:29,962 - Error: invalid literal for int() with base 10: 'a', Entered data: 'a b c'
+
